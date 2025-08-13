@@ -1,6 +1,6 @@
 # COVID-19 Data Analysis and Visualization (South America) with OpenPyXL
 
-This project retrieves up-to-date COVID-19 statistics for **South American countries** using the [disease.sh](https://disease.sh) API, processes the data in Python, and generates an Excel workbook with **multiple charts** using **OpenPyXL** and **Matplotlib**.
+In this automation project, I built a Python script that fetches weather data from an API and exports it into an Excel file. I used OpenPyXL to generate line, bar, scatter, and pie charts directly within the spreadsheet. This workflow allowed me to automate data reporting, ensuring consistency and saving time. The project shows my capacity to combine Python programming with Excel automation tools.
 
 The Excel file contains:
 - Raw COVID-19 data for each South American country
